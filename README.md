@@ -1,16 +1,25 @@
-### Hi there 👋
+## 유정민(Yu jeong Min,Tyrosine)
 
-<!--
-**tyrosine1153/tyrosine1153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🏫Hello!
 
-Here are some ideas to get you started:
+I'm studying student in Daedeok Software Meister High School(6th generation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<details>
+  <summary> 더보기(To see more details)</summary>
+#### ⭐I can do this 
+
+
+
+#### 🌱 I’m currently learning
+
+- C / C#
+- Unity Engine
+
+#### 📨How to reach me
+
+- Email: tyrosine1153@gmail.com
+- Bank account: NH 352 1468 9015 83(This is open door.)
+
+</details>
