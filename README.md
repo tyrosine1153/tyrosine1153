@@ -1,20 +1,20 @@
-## 유정민(Yu jeong Min,Tyrosine)
+<details>
+  <summary> 자기소개</summary>
+
+
+## 유정민(Yu jeong Min, Tyrosine)
 
 #### 🏫Hello!
 
-I'm studying student in Daedeok Software Meister High School(6th generation).
+I'm studying student in Daedeok Software Meister High School(1st grade).
 
-
-
-<details>
-  <summary> 더보기(To see more details)</summary>
 #### ⭐I can do this 
 
-
+Nothing
 
 #### 🌱 I’m currently learning
 
-- C / C#
+- C, C#, C++, Python
 - Unity Engine
 
 #### 📨How to reach me
