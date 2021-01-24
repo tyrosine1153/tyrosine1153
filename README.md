@@ -20,7 +20,7 @@ I'm studying in Daedeok Software Meister High School(6th).
 - Unity Engine
 - Math, Physics
 
-### 🤔 My github
+#### 🤔 My github
 
 학교와 전공동아리에서 배운것, 학교 밖 프로젝트 외에 레포는 모두 비공개로 해두고 있는 중입니다.
 비공개로 해두는 레포들은 주로 공부 기록, 개인 프로젝트 위주입니다.
