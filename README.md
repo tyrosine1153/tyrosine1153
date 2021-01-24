@@ -10,7 +10,7 @@ I'm studying in Daedeok Software Meister High School(6th).
 
 #### ⭐I can do this 
 
-- Nothing.
+- Nothing.  
   없습니다.
 
 
