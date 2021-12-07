@@ -8,12 +8,6 @@
 I'm studying in Daedeok Software Meister High School(6th).      
 대덕소프트웨어마이스터고등학교에서 6기로 재학중입니다.
 
-#### ⭐I can do this 
-
-- Nothing.  
-  없습니다.
-
-
 #### 🌱 I’m currently learning
 
 - C, C++, **C#**, Python
