@@ -1,27 +1,11 @@
-<details>
-  <summary> 자기소개입니다. </summary>
+## 유정민(Yu jeongmin, tyrosine1153)
 
-## 유정민(Yu jeong Min, tyrosine1153)
+#### 🎁 Hi!
 
-#### 🏫 Hello
-
-I'm studying in Daedeok Software Meister High School(6th).      
-대덕소프트웨어마이스터고등학교에서 6기로 재학중입니다.
-
-#### 🌱 I’m currently learning
-
-- C, C++, **C#**, Python
-- Unity Engine
-- Math, Physics
+I'm currently working as a game client engineer at [Planetarium](https://github.com/planetarium).  
+현재 [플라네타리움](https://github.com/planetarium)에서 게임 클라이언트 엔지니어로 재직중입니다.
 
 #### 🤔 My github
 
-학교에서 배운, 혼자서 연습한, 프로젝트에서 작성한 코드 및 파일들을 주로 올립니다.
-
-
-연락은 제 깃허브 프로필에 있는 연락처로 주실 수 있습니다.  
-하지만 프로필에 적힌 계좌(농협 352 1468 9015 83)의 송금을 통해 메모를 주실 때 답장이 더 빠릅니다.
-
-감사합니다.
-
-</details>
+I usually post records of my studies, or code and files I've written for game jams or personal projects.  
+공부했던 기록, 게임잼 또는 개인 프로젝트에서 작성했던 코드 및 파일들을 주로 올립니다.
